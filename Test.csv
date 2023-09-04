@@ -105,5 +105,5 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+PLAYER,SAM,QB,Ladanian Tomlinson,Fr,100,200,100,100,100,100,100,100,100
 END_FILE,,,,,,,,,,,,,
